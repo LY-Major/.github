@@ -18,7 +18,7 @@
 
 ## :earth_asia: Visit/Explore website
 
-[College Infrastructure 3D Navigation](https://major-kjsieit.web.app/) hosted on free Firebase server. For $360\degree$ camera view visit the website via desktop/laptop for enhancing your experience.
+[**College Infrastructure 3D Navigation**](https://major-kjsieit.web.app/) hosted on free Firebase server. For $360\degree$ camera view visit the website via desktop/laptop for enhancing your experience.
 
 ## :hammer_and_wrench: Technologies and Tools Used
 
